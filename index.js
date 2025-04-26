@@ -7,7 +7,7 @@ const app = express();
 
 app.get('/', (req, res) => {
 
-  res.send('Hello from Nodejs App Build Image');
+  res.send('Hello from Nodejs App Build Imagee');
 
 });
 
