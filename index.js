@@ -7,7 +7,7 @@ const app = express();
 
 app.get('/', (req, res) => {
 
-  res.send('welcomee to containerised nodejs app and Pushing to Dockerhub Succesful!');
+  res.send('welcome to containerised nodejs app and Pushing to Dockerhub Succesful!');
 
 });
 
